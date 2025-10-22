@@ -9,7 +9,7 @@
 ## Essential Questions — Reflection
 
 ### 1) How do I interpret user needs and implement them into a program? How do user stories help?
-I start by translating stakeholder goals into **user stories** that capture who needs what and why (e.g., “As a traveler, I want to search destinations so that I can plan an itinerary”). Each story has **acceptance criteria** that define done ness and testability. That structure lets me size and prioritize work, aligning directly to business value. During the SNHU Travel project, we maintained a prioritized backlog, refined stories before sprints, and validated acceptance criteria at the Sprint Review—keeping implementation tightly mapped to user outcomes. 
+I start by translating stakeholder goals into **user stories** that capture who needs what and why (e.g., “As a traveler, I want to search destinations so that I can plan an itinerary”). Each story has **acceptance criteria** that define done ness and testability. That structure lets me size and prioritize work, aligning directly to business value. During the SNHU Travel project, we maintained a prioritized backlog, refined stories before sprints, and validated acceptance criteria at the Sprint Review keeping implementation tightly mapped to user outcomes. 
 
 ### 2) How do I approach developing programs? Which Agile processes will I use going forward?
 I work iteratively in short **sprints** with a clear Sprint Goal and a small, testable slice of functionality. I plan with **story points**, meet daily to surface blockers, and maintain flow on a visible **Kanban/boards** tool. Each increment meets a shared **Definition of Done** (coded, tested, and reviewed). I’ll continue using:
