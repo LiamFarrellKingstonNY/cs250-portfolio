@@ -2,7 +2,7 @@
 
 ## Artifacts
 - **Sprint Review & Retrospective (DOCX):** 
-- **Agile Presentation (PPTX, optional):**
+- **Agile Presentation (PPTX):**
 
 ---
 
